@@ -29,5 +29,5 @@ This Python project allows you to transfer a playlist from Spotify to YouTube Mu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Spotify-to-YouTube-Playlist.git
+   git clone https://github.com/ak18akashrajr/Spotify-to-YouTube-Playlist.git
    cd Spotify-to-YouTube-Playlist
