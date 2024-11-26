@@ -38,7 +38,7 @@ def create_youtube_playlist(playlist_name, description, tracks):
 
 # Main Process
 if __name__ == "__main__":
-    spotify_playlist_url = "your_spotify_playlist_url"  # Replace with your Spotify playlist URL
+    spotify_playlist_url = "your_spotify_playlist_url"  # playlist URL
     playlist_name = "Your New Playlist"  # Name for the new YouTube Music playlist
     playlist_description = "Playlist migrated from Spotify"
 
